@@ -1,4 +1,4 @@
-
+# Simulation code
 sum = []
 i = 1
 min_number = 1
